@@ -47,10 +47,14 @@ Agent OS Lite contains the two free foundation modules only. The paid Agent OS e
 
 **Learn more:** https://aiandrealtors.com/agent-os
 
+## Marketplace directories
+
+Browse the [Claude Market](https://www.claudemarket.ai) directory for AI skills, MCP servers, plugins, and connectors.
+
 ## Platform note
 
 Native Agent Skill installation varies by platform, plan, workspace, and product surface. Agent OS Lite is designed around the portable Agent Skills format and can also be adapted to supported custom-instruction or agent environments.
 
 ## Trademark notice
 
-ChatGPT and OpenAI are trademarks of OpenAI. Claude and Anthropic are trademarks of Anthropic PBC. Flexmls and Spark are trademarks of their respective owners. AIandRealtors Agent OS is an independent product and is not affiliated with or endorsed by OpenAI, Anthropic, FBS/Flexmls, SkillHQ, or referenced CRM vendors unless expressly stated.
+ChatGPT and OpenAI are trademarks of OpenAI. Claude and Anthropic are trademarks of Anthropic PBC. Flexmls and Spark are trademarks of their respective owners. AIandRealtors Agent OS is an independent product and is not affiliated with or endorsed by OpenAI, Anthropic, FBS/Flexmls, SkillHQ, Claude Market, or referenced CRM vendors unless expressly stated.
