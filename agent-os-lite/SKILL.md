@@ -9,6 +9,8 @@ metadata:
   version: "1.0.3"
   product: AIandRealtors Agent OS Lite
   website: https://aiandrealtors.com/agent-os
+  category: autonomous-ai-agents
+  tags: real-estate,crm,sales,mls,buyers,sellers,follow-up,productivity
 ---
 
 # AIandRealtors Agent OS Lite
